@@ -1,0 +1,55 @@
+@media(width > 900px){
+    .yt{
+        width: 540px;
+        height: 364px;
+        margin-top: 32px;
+        margin-left: -204px;
+    }
+    .txt{
+        width: 444px;
+        height: 114px;
+        font-family: Manrope;
+        font-size: 28px;
+        font-weight: 800;
+        line-height: 38px;
+        letter-spacing: -0.30000001192092896px;
+        text-align: center;
+    }
+    .ad, .nuli, .ppq {
+        font-family: Manrope;
+        font-size: 17px;
+        font-weight: 800;
+        line-height: 18px;
+        letter-spacing: 4.085713863372803px;
+        text-align: center;
+    }
+    .line{
+        display: none;
+    }
+    .line2{
+        display: flex;
+        margin-top: 300px;
+        margin-left: -490px;
+    }
+    .kamateli{
+        margin-top: 412px;
+        margin-left: -251px;
+    }
+    .ad{
+        position: absolute;
+        left: 50%;
+        transform: translate(-50%);
+    }
+    .nuli, .pqq{
+        margin-left: 345px;
+    }
+    .txt{
+        position: absolute;
+        left: 53%;
+        transform: translate(-50%);
+    }
+    .kiki{
+      margin-left: 220px;
+      margin-top: 90px;
+    }
+}
